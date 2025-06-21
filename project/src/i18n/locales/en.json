@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Home",
+    "predict": "Crop Prediction",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Kisan Mitra",
+      "subtitle": "Your AI-Powered Agriculture Companion",
+      "description": "Get smart crop recommendations, fertilizer suggestions, and farming guidance powered by advanced machine learning.",
+      "cta": "Start Prediction",
+      "secondaryCta": "Learn More"
+    },
+    "features": {
+      "title": "Why Choose Kisan Mitra?",
+      "crop": {
+        "title": "Smart Crop Prediction",
+        "description": "AI-powered recommendations based on soil conditions, weather, and regional data."
+      },
+      "fertilizer": {
+        "title": "Fertilizer Guidance",
+        "description": "Get precise fertilizer recommendations to maximize your crop yield."
+      },
+      "multilingual": {
+        "title": "Multiple Languages",
+        "description": "Access our platform in Hindi, English, Kannada, Telugu, and Tamil."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Get farming guidance and technical support whenever you need it."
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login to Your Account",
+      "subtitle": "Welcome back, farmer!",
+      "email": "Email Address",
+      "password": "Password",
+      "submit": "Sign In",
+      "forgot": "Forgot Password?",
+      "noAccount": "Don't have an account?",
+      "register": "Register here"
+    },
+    "register": {
+      "title": "Create Your Account",
+      "subtitle": "Join the farming revolution!",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "location": "Location",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "userType": "User Type",
+      "farmer": "Farmer",
+      "expert": "Agricultural Expert",
+      "dealer": "Fertilizer Dealer",
+      "submit": "Create Account",
+      "hasAccount": "Already have an account?",
+      "login": "Login here"
+    },
+    "forgot": {
+      "title": "Reset Your Password",
+      "subtitle": "Enter your email to receive reset instructions",
+      "email": "Email Address",
+      "submit": "Send Reset Link",
+      "back": "Back to Login"
+    }
+  },
+  "predict": {
+    "title": "Crop & Fertilizer Prediction",
+    "subtitle": "Get AI-powered recommendations for your farm",
+    "form": {
+      "soilType": "Soil Type",
+      "cropType": "Crop Type",
+      "state": "State",
+      "season": "Season",
+      "nitrogen": "Nitrogen (N)",
+      "phosphorus": "Phosphorus (P)",
+      "potassium": "Potassium (K)",
+      "ph": "pH Level",
+      "rainfall": "Rainfall (mm)",
+      "submit": "Get Prediction",
+      "loading": "Analyzing..."
+    },
+    "result": {
+      "title": "Prediction Results",
+      "crop": "Recommended Crop",
+      "fertilizer": "Best Fertilizer",
+      "confidence": "Confidence",
+      "newPrediction": "New Prediction"
+    },
+    "soilTypes": {
+      "sandy": "Sandy",
+      "clay": "Clay",
+      "loamy": "Loamy",
+      "silt": "Silt",
+      "peaty": "Peaty",
+      "chalky": "Chalky"
+    },
+    "seasons": {
+      "kharif": "Kharif",
+      "rabi": "Rabi",
+      "zaid": "Zaid",
+      "summer": "Summer"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close"
+  }
+}
