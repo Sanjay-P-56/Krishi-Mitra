@@ -1,4 +1,4 @@
-# Kisan Mitra
+# Kisan Mitra 🌱
 
 ## Empowering Indian Farmers through Technology
 
